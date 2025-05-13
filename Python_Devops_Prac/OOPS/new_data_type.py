@@ -5,6 +5,7 @@ class Fraction:
         self.d = d
 
     def __str__(self):
+        
         print("Hey! This is string method.")
         return f"{self.n}/{self.d}"
 

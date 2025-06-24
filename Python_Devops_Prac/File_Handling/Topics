@@ -1,9 +1,0 @@
-File Modes: r, w, a, rb, wb, etc.
-
-Reading/Writing: open(), read(), write(), readlines().
-
-With Statement: Proper file closing.
-
-OS Module: File and directory management.
-
-Shutil Module: File operations like copy, move.
